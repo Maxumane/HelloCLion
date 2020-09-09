@@ -1,6 +1,10 @@
 #include <iostream>
+#include "gcd.hpp"
+using namespace std;
 
 int main() {
-    std::cout << "Hello, Clion!" << std::endl;
+    cout << "Hello, Clion!" << endl;
+    int result;
+    result = gcd(33, 30);
     return 0;
 }

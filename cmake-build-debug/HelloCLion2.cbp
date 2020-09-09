@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/HelloCLion2/cmake-build-debug/gcd.hpp">
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/HelloCLion2/gcd.hpp">
 			<Option target="HelloCLion2"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/HelloCLion2/main.cpp">
