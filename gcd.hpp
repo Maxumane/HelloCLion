@@ -28,7 +28,7 @@ int gcd(const int a, const int b) {
             continue;
         }
     }
-    cout<<"The GCD of "<< a <<" and "<< b <<" is "<< max;
+    cout<<"The GCD of "<< a <<" and "<< b <<" is "<< max <<endl;
     return max;
 }
 
